@@ -1,0 +1,4 @@
+build/
+sensor_data/
+!sensor_data/sample_data/
+*.log
